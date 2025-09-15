@@ -1,0 +1,22 @@
+[
+  {
+    "name": "good first issue",
+    "color": "7f0799"
+  },
+  {
+    "name": "talk: discussion",
+    "color": "f9bbe5"
+  },
+  {
+    "name": "🟥 priority: high",
+    "color": "ff9f1c"
+  },
+  {
+    "name": "🟨 priority: medium",
+    "color": "ffcc00"
+  },
+  {
+    "name": "🟩 priority: low",
+    "color": "cfda2c"
+  },
+]
